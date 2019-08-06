@@ -38,9 +38,15 @@ h1, h2, h3, h4, h5, h6,
   word-wrap: break-word; }
 
 b, strong {
+<<<<<<< HEAD:assets/theme/css/style.css
   font-weight: bold;
   color: #951d19;
 }
+=======
+  font-weight: bold;
+  color: #951d19;
+  }
+>>>>>>> dalnetRepo/master:dalnet/assets/theme/css/style.css
 
 blockquote {
   padding: 10px 0 10px 20px;
