@@ -38,21 +38,16 @@ h1, h2, h3, h4, h5, h6,
   word-wrap: break-word; }
 
 b, strong {
-<<<<<<< HEAD:assets/theme/css/style.css
-  font-weight: bold;
-  color: #951d19;
-}
-=======
   font-weight: bold;
   color: #951d19;
   }
->>>>>>> dalnetRepo/master:dalnet/assets/theme/css/style.css
 
 blockquote {
   padding: 10px 0 10px 20px;
   position: relative;
   border-left: 2px solid;
-  border-color: #ff3366; }
+  border-color: #ff3366; 
+}
 
 input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:focus, input:-webkit-autofill:active {
   -webkit-transition-delay: 9999s;
